@@ -23,6 +23,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 |---|---|---|
 | Evaluate a Scalar Neuron | Evaluate a scalar PyTorch tanh neuron from aligned inputs, weights, and bias using promoted floating-point types. | https://www.tensortonic.com/problems/autograd-l04-neuron-forward |
 | Orthogonalize a Muon Momentum Update | Form matrix momentum, replace its compact singular values with one, and apply the resulting spectral update. | https://www.tensortonic.com/problems/cs336-l11-muon-spectral-update |
+| Build an Assistant-Only SFT Loss Mask | Build a shifted supervised-fine-tuning loss mask that trains only on assistant tokens and ignores padding and controls. | https://www.tensortonic.com/problems/cs336-l15-assistant-only-sft-mask |
 | Patchify a Batch of Images | Split PyTorch image batches into a row-major grid of non-overlapping flattened Vision Transformer patches. | https://www.tensortonic.com/problems/cs336-l17-vision-transformer-patchify |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ayush831819)
